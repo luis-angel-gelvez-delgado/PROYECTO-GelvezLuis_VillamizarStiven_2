@@ -1,0 +1,307 @@
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 697px;
+    width: 328px;
+    top: 124px;
+    left: 60px;
+    border-radius: 30px;
+}
+
+.kario{
+    background-image: url(./../img/kario.png);
+    position: absolute;
+    width: 61px;
+    height: 70px;
+    background-size: cover;
+    margin: auto;
+    top: 150px;
+    left: 190px;
+}
+
+.welcome{
+    position: absolute;
+    width: 330px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 220px;
+}
+
+.p1page8{
+    position: absolute;
+    width: 320px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 270px;
+    color: gray;
+}
+
+.ovalo1{
+    position: absolute;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 350px;
+    border: 1px black solid;
+}
+.txtOva1{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 360px;
+    left: 100px;
+}
+#ind{
+    position: absolute;
+    top: 350px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo2{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 395px;
+    border: 1px black solid;
+}
+.txtOva2{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 405px;
+    left: 100px;
+}
+#drc{
+    position: absolute;
+    top: 395px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo3{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 439px;
+    border: 1px black solid;
+}
+.txtOva3{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 450px;
+    left: 100px;
+}
+#ctg{
+    position: absolute;
+    top: 440px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo4{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 483px;
+    border: 1px black solid;
+}
+.txtOva4{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 495px;
+    left: 100px;
+}
+#fchI{
+    position: absolute;
+    top: 485px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo5{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 527px;
+    border: 1px black solid;
+}
+.txtOva5{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 536px;
+    left: 100px;
+}
+#fchF{
+    position: absolute;
+    top: 526px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo6{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 572px;
+    border: 1px black solid;
+}
+.txtOva6{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 583px;
+    left: 100px;
+}
+#fml{
+    position: absolute;
+    top: 573px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo7{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 616px;
+    border: 1px black solid;
+}
+.txtOva7{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 626px;
+    left: 100px;
+}
+#fca{
+    position: absolute;
+    top: 616px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo8{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 660px;
+    border: 1px black solid;
+}
+.txtOva8{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 670px;
+    left: 100px;
+}
+#rea{
+    position: absolute;
+    top: 660px;
+    left: 220px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.btnElement button{
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 128px;
+    height: 32px;
+    border-radius: 30px;
+    left: 165px;
+    top: 710px;
+    cursor: pointer;
+}
+
+.p2Page8{
+    position: absolute;
+    color: gray;
+    width: 291px;
+    height: 30px;
+    text-align: center;
+    font-size: smaller;
+    left: 80px;
+    top: 750px;
+}

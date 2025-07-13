@@ -260,4 +260,107 @@
     left: 75px;
     font-size: small;
     color: gray;
+    text-align: center;
+}
+
+.txtOvalo1{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 50px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 60px;
+    top: 320px;
+}
+.txtOvalo1 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo2{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 45px;
+    top: 370px;
+}
+.txtOvalo2 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo3{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 30px;
+    top: 420px;
+}
+.txtOvalo3 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo4{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 40px;
+    top: 472px;
+}
+.txtOvalo4 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo5{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 35px;
+    top: 520px;
+}
+.txtOvalo5 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo6{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 35px;
+    top: 570px;
+}
+.txtOvalo6 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
 }
