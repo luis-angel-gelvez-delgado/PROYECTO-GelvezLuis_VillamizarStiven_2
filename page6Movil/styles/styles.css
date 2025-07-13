@@ -1,0 +1,24 @@
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.kario{
+    position: absolute;
+    background-image: url(./../img/kario\ sin\ kairo.png);
+    width: 174px;
+    height: 155px;
+    background-size: cover;
+    margin: auto;
+    top: 410px;
+    left: 135px;
+}

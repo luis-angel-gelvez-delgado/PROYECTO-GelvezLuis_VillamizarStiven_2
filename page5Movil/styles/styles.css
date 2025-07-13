@@ -1,0 +1,72 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 401px;
+    width: 328px;
+    top: 263px;
+    left: 60px;
+    border-radius: 50px;
+}
+
+.kario{
+    position: absolute;
+    background-image: url(./../img/kario.png);
+    width: 61px;
+    height: 68px;
+    background-size: cover;
+    margin: auto;
+    top: 281px;
+    left: 190px;
+}
+
+.welcome{
+    position: absolute;
+    width: 330px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 350px;
+}
+
+.imgPedro{
+    position: absolute;
+    align-items: center;
+    left: 150px;
+    top: 400px;
+}
+.p1Page5{
+    position: absolute;
+    width: 330px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 550px;
+}
+
+.h5Page5{
+    opacity: 50%;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    text-align: center;
+    left: 150px;
+    top: 585px;
+}

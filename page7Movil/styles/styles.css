@@ -1,0 +1,263 @@
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 800px;
+    width: 400px;
+    top: 85px;
+    left: 23px;
+    border-radius: 30px;
+}
+
+.iconRefresh{
+    background-image: url(./../img/Icon\ open-reload.png);
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    margin: auto;
+    top: 102px;
+    left: 60px;
+}
+
+.iconBug{
+    background-image: url(../img/Icon\ material-bug-report.png);
+    position: absolute;
+    width: 30px;
+    height: 35px;
+    background-size: cover;
+    margin: auto;
+    top: 100px;
+    left: 125px;
+}
+
+.iconKario{
+    background-image: url(./../img/kario\ sin\ kairo.png);
+    position: absolute;
+    width: 33px;
+    height: 31px;
+    background-size: cover;
+    margin: auto;
+    top: 100px;
+    left: 200px;
+}
+
+.iconHelp{
+    background-image: url(./../img/Icon\ ionic-ios-help-circle.png);
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    background-size: cover;
+    margin: auto;
+    top: 100px;
+    left: 275px;
+}
+.iconProfile{
+    background-image: url(./../img/pp.png);
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    background-size: cover;
+    margin: auto;
+    top: 100px;
+    left: 350px;
+}
+
+.grayLine{
+    background-color: gray;
+    position: absolute;
+    height: 2px;
+    width: 400px;
+    left: 23px;
+    top: 135px;
+}
+
+.iconSetings{
+    background-image: url(./../img/Icon\ ionic-ios-settings.png);
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    margin: auto;
+    top: 150px;
+    left: 355px;
+}
+
+.iconNews{
+    background-image: url(./../img/Icon\ material-notifications-active.png);
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    margin: auto;
+    top: 190px;
+    left: 355px;
+}
+
+.panelInd{
+    position: absolute;
+    height: auto;
+    width: 170px;
+    top: 180px;
+    left: 130px;
+    text-align: center;
+}
+
+.indPro{
+    position: absolute;
+    height: auto;
+    width: 230px;
+    top: 240px;
+    left: 100px;
+    text-align: center;
+}
+
+.indicador{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+}
+
+.categoria{
+    position: absolute;
+    left: 150px;
+    top: 300px;
+}
+
+.formula{
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+
+.area{
+    position: absolute;
+    left: 350px;
+    top: 300px;
+}
+
+.ova1{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 350px;
+    left: 40px;
+}
+
+.ova2{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 400px;
+    left: 40px;
+}
+
+.ova3{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 450px;
+    left: 40px;
+}
+
+.ova4{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 500px;
+    left: 40px;
+}
+
+.ova5{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 550px;
+    left: 40px;
+}
+
+.ova6{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 600px;
+    left: 40px;
+}
+
+.btnElement{
+    position: absolute;
+    background-color: darkorange;
+    border: 1px black solid;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size:larger;
+    top: 670px;
+    left: 125px;
+}
+.btnElement button{
+    color: white;
+    background-color: darkorange;
+    border: none;
+}
+
+.btnDelete{
+    position: absolute;
+    background-color: darkorange;
+    border: 1px black solid;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size:larger;
+    top: 735px;
+    left: 125px;
+}
+.btnDelete button{
+    color: white;
+    background-color: darkorange;
+    border: none;
+}
+
+.p1page7{
+    position: absolute;
+    text-align: center;
+    height: 80px;
+    width: 280px;
+    top: 780px;
+    left: 75px;
+    font-size: small;
+    color: gray;
+}
