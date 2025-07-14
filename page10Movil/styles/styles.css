@@ -1,0 +1,234 @@
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 697px;
+    width: 328px;
+    top: 124px;
+    left: 60px;
+    border-radius: 30px;
+}
+
+.kario{
+    background-image: url(./../img/kario\ sin\ kairo.png);
+    position: absolute;
+    width: 105px;
+    height: 96px;
+    background-size: cover;
+    margin: auto;
+    top: 150px;
+    left: 170px;
+}
+
+.welcome{
+    position: absolute;
+    width: 250px;
+    height: 39px;
+    text-align: center;
+    left: 99px;
+    top: 250px;
+}
+
+.p1page10{
+    position: absolute;
+    width: 330px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 300px;
+    color: gray;
+}
+
+.ovalo1{
+    position: absolute;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 390px;
+    border: 1px black solid;
+}
+#fch{
+    position: absolute;
+    top: 390px;
+    left: 137px;
+    width: 160px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    text-align: center;
+}
+
+.ovalo2{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 435px;
+    border: 1px black solid;
+}
+#srv{
+    position: absolute;
+    top: 435px;
+    left: 132px;
+    width: 170px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    text-align: center;
+}
+
+.ovalo3{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 480px;
+    border: 1px black solid;
+}
+#nUs{
+    position: absolute;
+    top: 480px;
+    left: 125px;
+    width: 170px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    text-align: center;
+}
+
+.ovalo4{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 524px;
+    border: 1px black solid;
+}
+#intf{
+    position: absolute;
+    top: 525px;
+    left: 160px;
+    width: 110px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    text-align: center;
+}
+
+.ovalo5{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 569px;
+    border: 1px black solid;
+}
+#dcc{
+    position: absolute;
+    top: 570px;
+    left: 140px;
+    width: 150px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    text-align: center;
+}
+
+.ovalo6{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 613px;
+    border: 1px black solid;
+}
+#pqrs{
+    position: absolute;
+    top: 615px;
+    left: 110px;
+    width: 215px;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+}
+
+.ovalo7{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 657px;
+    border: 1px black solid;
+}
+#dcpc{
+    position: absolute;
+    top: 655px;
+    left: 145px;
+    width: 150px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    text-align: center;
+}
+
+.btnPqrs button{
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 128px;
+    height: 32px;
+    border-radius: 30px;
+    left: 165px;
+    top: 702px;
+    cursor: pointer;
+}
+
+.btnMenu button{
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 160px;
+    height: 32px;
+    border-radius: 30px;
+    left: 150px;
+    top: 737px;
+    cursor: pointer;
+}
+
+.p2Page10{
+    position: absolute;
+    color: gray;
+    width: 291px;
+    height: 30px;
+    text-align: center;
+    font-size: smaller;
+    left: 83px;
+    top: 770px;
+}
