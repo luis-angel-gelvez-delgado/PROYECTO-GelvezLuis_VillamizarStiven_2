@@ -1,0 +1,281 @@
+html{
+    background-color: gray;
+}
+
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 880px;
+    width: 400px;
+    top: 35px;
+    left: 23px;
+    border-radius: 30px;
+}
+
+.h3Page9{
+    position: absolute;
+    top: 60px;
+    left: 85px;
+}
+
+.danger{
+    position: absolute;
+    background-image: url(./../img/danger.png);
+    width: 157px;
+    height: 157px;
+    background-size: cover;
+    top: 115px;
+    left: 140px;
+}
+
+.p1page9{
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 240px;
+    top: 275px;
+    left: 97px;
+    font-size: small;
+    color: gray;
+    text-align: center;
+}
+
+
+.h4Page9{
+    position: absolute;
+    top: 300px;
+    left: 85px;
+}
+
+.indicador{
+    position: absolute;
+    left: 50px;
+    top: 370px;
+}
+
+.categoria{
+    position: absolute;
+    left: 150px;
+    top: 370px;
+}
+
+.formula{
+    position: absolute;
+    left: 250px;
+    top: 370px;
+}
+
+.area{
+    position: absolute;
+    left: 350px;
+    top: 370px;
+}
+
+.ova1{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 670px;
+    left: 40px;
+}
+
+.ova2{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 420px;
+    left: 40px;
+}
+
+.ova3{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 470px;
+    left: 40px;
+}
+
+.ova4{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 520px;
+    left: 40px;
+}
+
+.ova5{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 570px;
+    left: 40px;
+}
+
+.ova6{
+    border: 1px gray solid;
+    position: absolute;
+    border-radius: 30px;
+    width: 360px;
+    height: 30px;
+    top: 620px;
+    left: 40px;
+}
+
+.btnDelete{
+    position: absolute;
+    background-color: darkorange;
+    border: 1px black solid;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size:larger;
+    top: 735px;
+    left: 125px;
+}
+.btnDelete button{
+    color: white;
+    background-color: darkorange;
+    border: none;
+}
+
+.p2page9{
+        position: absolute;
+    text-align: center;
+    height: 80px;
+    width: 280px;
+    top: 800px;
+    left: 75px;
+    font-size: small;
+    color: gray;
+    text-align: center;
+}
+
+.txtOvalo1{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 50px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 60px;
+    top: 387px;
+}
+.txtOvalo1 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo2{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 45px;
+    top: 442px;
+}
+.txtOvalo2 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo3{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 30px;
+    top: 492px;
+}
+.txtOvalo3 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo4{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 40px;
+    top: 543px;
+}
+.txtOvalo4 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo5{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 35px;
+    top: 593px;
+}
+.txtOvalo5 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.txtOvalo6{
+    position: absolute;
+    display: grid;
+    grid: 10px / auto auto auto auto;
+    grid-gap: 51px;
+    background-color: transparent;
+    padding: 15px;
+    width: 300px;
+    left: 35px;
+    top: 643px;
+}
+.txtOvalo6 div{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 12px;
+}
