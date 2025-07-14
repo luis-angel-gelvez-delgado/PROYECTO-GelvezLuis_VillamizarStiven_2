@@ -1,0 +1,118 @@
+.fondo{
+    background-color: black;
+    position: absolute;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 401px;
+    width: 326px;
+    top: 263px;
+    left: 60px;
+    border-radius: 30px;
+}
+
+.kario{
+    background-image: url(./../img/kario.png);
+    position: absolute;
+    width: 61px;
+    height: 70px;
+    background-size: cover;
+    margin: auto;
+    top: 280px;
+    left: 190px;
+}
+
+.welcome{
+    position: absolute;
+    width: 280px;
+    height: 39px;
+    text-align: center;
+    left: 80px;
+    top: 340px;
+}
+
+.p1page14{
+    position: absolute;
+    width: 320px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 400px;
+    font-size: smaller;
+    color: rgb(56, 56, 56);
+}
+
+.ova1{
+    position: absolute;
+    border: 1px black solid;
+    border-radius: 20px;
+    text-align: center;
+    width: 263px;
+    height: 31px;
+    left: 90px;
+    top: 450px;
+    cursor: pointer;
+}
+.txtOva1{
+    position: absolute;
+    text-align: center;
+    left: 167px;
+    top: 457px;
+    font-size: smaller;
+    color: gray;
+}
+
+.ova2{
+    position: absolute;
+    border: 1px black solid;
+    border-radius: 20px;
+    text-align: center;
+    width: 263px;
+    height: 31px;
+    left: 90px;
+    top: 510px;
+    cursor: pointer;
+}
+.txtOva2{
+    position: absolute;
+    text-align: center;
+    left: 167px;
+    top: 517px;
+    font-size: smaller;
+    color: gray;
+}
+
+
+.btnMenu button{
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 160px;
+    height: 35px;
+    border-radius: 30px;
+    left: 145px;
+    top: 570px;
+    cursor: pointer;
+}
+
+.p2page14{
+    position: absolute;
+    width: 300px;
+    height: 39px;
+    text-align: center;
+    left: 76px;
+    top: 615px;
+    font-size: x-small;
+    color: rgb(56, 56, 56);
+}
