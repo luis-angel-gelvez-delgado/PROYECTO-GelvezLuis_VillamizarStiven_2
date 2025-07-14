@@ -209,6 +209,16 @@
     top: 702px;
     cursor: pointer;
 }
+.btn11 a{
+    color: transparent;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 705px;
+    left: 150px;
+    cursor: pointer;
+    background-color: transparent;
+}
 
 .btnMenu button{
     position: absolute;
@@ -220,6 +230,16 @@
     left: 150px;
     top: 737px;
     cursor: pointer;
+}
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    top: 738px;
+    left: 150px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .p2Page10{

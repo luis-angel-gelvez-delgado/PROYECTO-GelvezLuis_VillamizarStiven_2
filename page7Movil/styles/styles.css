@@ -43,6 +43,17 @@
     top: 100px;
     left: 125px;
 }
+.btn10 a{
+    color: transparent;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 100px;
+    left: 115px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
 
 .iconKario{
     background-image: url(./../img/kario\ sin\ kairo.png);
@@ -65,6 +76,18 @@
     top: 100px;
     left: 275px;
 }
+.btn13 a{
+    color: transparent;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 100px;
+    left: 265px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+
 .iconProfile{
     background-image: url(./../img/pp.png);
     position: absolute;
@@ -74,6 +97,16 @@
     margin: auto;
     top: 100px;
     left: 350px;
+}
+.btn15 a{
+    color: transparent;
+    position: absolute;
+    width: 60px;
+    height: 50px;
+    top: 90px;
+    left: 340px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .grayLine{
@@ -95,6 +128,17 @@
     top: 150px;
     left: 355px;
 }
+.btn12 a{
+    color: transparent;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 130px;
+    left: 345px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
 
 .iconNews{
     background-image: url(./../img/Icon\ material-notifications-active.png);
@@ -105,6 +149,16 @@
     margin: auto;
     top: 190px;
     left: 355px;
+}
+.btn14 a{
+    color: transparent;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 180px;
+    left: 345px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .panelInd{
@@ -229,6 +283,17 @@
     background-color: darkorange;
     border: none;
 }
+.btn8 a{
+    color: transparent;
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    top: 668px;
+    left: 100px;
+    cursor: pointer;
+    background-color: transparent;
+
+}
 
 .btnDelete{
     position: absolute;
@@ -249,6 +314,16 @@
     color: white;
     background-color: darkorange;
     border: none;
+}
+.btn9 a{
+    color: transparent;
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    top: 733px;
+    left: 100px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .p1page7{
@@ -364,3 +439,5 @@
     padding: 10px 0px;
     font-size: 12px;
 }
+
+
