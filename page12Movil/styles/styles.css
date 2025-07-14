@@ -1,0 +1,213 @@
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 697px;
+    width: 328px;
+    top: 124px;
+    left: 60px;
+    border-radius: 30px;
+}
+
+.kario{
+    background-image: url(./../img/kario\ sin\ kairo.png);
+    position: absolute;
+    width: 105px;
+    height: 96px;
+    background-size: cover;
+    margin: auto;
+    top: 150px;
+    left: 170px;
+}
+
+.welcome{
+    position: absolute;
+    width: 250px;
+    height: 39px;
+    text-align: center;
+    left: 99px;
+    top: 250px;
+}
+
+.p1page12{
+    position: absolute;
+    width: 330px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 300px;
+    color: gray;
+}
+
+.ovalo1{
+    position: absolute;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 390px;
+    border: 1px black solid;
+}
+.btns #tm{
+    position: absolute;
+    top: 383px;
+    left: 96px;
+    width: 263px;
+    height: 40px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    cursor: pointer;
+    color: white    ;
+    background-color: darkorange;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.ovalo2{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 435px;
+    border: 1px black solid;
+}
+.btns #srvT{
+    position: absolute;
+    top: 436px;
+    left: 96px;
+    width: 263px;
+    height: 40px;
+    color: white    ;
+    background-color: darkorange;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.ovalo3{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 480px;
+    border: 1px black solid;
+}
+.btns #lI{
+    top: 481px;
+    left: 96px;
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 263px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.ovalo4{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 524px;
+    border: 1px black solid;
+}
+.btns #lO{
+    top: 525px;
+    left: 96px;
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 263px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.ovalo5{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 569px;
+    border: 1px black solid;
+}
+.btns #pqrs{
+    top: 570px;
+    left: 96px;
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 263px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.ovalo6{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 90px;
+    left: 95px;
+    top: 613px;
+    border: 1px black solid;
+}
+.btns #CuC{
+    position: absolute;
+    top: 614px;
+    left: 96px;
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 263px;
+    height: 90px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.btns #menu{
+    position: absolute;
+    color: white    ;
+    background-color: darkorange;
+    width: 160px;
+    height: 32px;
+    border-radius: 30px;
+    cursor: pointer;
+    left: 150px;
+    top: 725px;
+}
+
+.p2Page12{
+    position: absolute;
+    color: gray;
+    width: 291px;
+    height: 30px;
+    text-align: center;
+    font-size: smaller;
+    left: 83px;
+    top: 780px;
+}
+
+
