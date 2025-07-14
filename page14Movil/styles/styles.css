@@ -96,7 +96,7 @@
 
 .btnMenu button{
     position: absolute;
-    color: white    ;
+    color: white;
     background-color: darkorange;
     width: 160px;
     height: 35px;
@@ -104,6 +104,16 @@
     left: 145px;
     top: 570px;
     cursor: pointer;
+}
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .p2page14{
