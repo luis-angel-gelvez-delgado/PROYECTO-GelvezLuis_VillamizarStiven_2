@@ -71,6 +71,16 @@
     width: 155px;
     font-size: small;
 }
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 580px;
+    left: 120px;
+    cursor: pointer;
+    background-color: transparent;
+}
 
 
 
