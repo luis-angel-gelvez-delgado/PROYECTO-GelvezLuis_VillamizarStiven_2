@@ -1,0 +1,58 @@
+.fondo{
+    background-color: transparent;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueN{
+    background-color: black;
+    position: absolute;
+    height: 282px;
+    width: 316px;
+    top: 317px;
+    left: 65px;
+    border-radius: 30px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 257px;
+    width: 285px;
+    top: 330px;
+    left: 80px;
+    border-radius: 50px;
+}
+
+.miniBloqB{
+    border: 1px black solid;
+    position: absolute;
+    height: 120px;
+    width: 257px;
+    top: 345px;
+    left: 93px;
+    border-radius: 40px;
+}
+.txtBloque{
+    position: absolute;
+    text-align: center;
+    height: 79px;
+    width: 250px;
+    top: 365px;
+    left: 100px;
+    font-size: small;
+}
+
+.btn button{
+    border: 1px black solid;
+    position: absolute;
+    background-color: darkorange;
+    color: white;
+    height: 76px;
+    width: 220px;
+    top: 490px;
+    left: 113px;
+    border-radius: 40px;
+    cursor: pointer;
+}
