@@ -163,6 +163,16 @@
     border-radius: 30px;
     cursor: pointer;
 }
+.btn10 a{
+    color: transparent;
+    position: absolute;
+    width: 270px;
+    height: 50px;
+    top: 560px;
+    left: 100px;
+    cursor: pointer;
+    background-color: transparent;
+}
 
 .ovalo6{
     position: absolute;
@@ -197,6 +207,16 @@
     cursor: pointer;
     left: 150px;
     top: 725px;
+}
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 720px;
+    left: 120px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .p2Page12{
