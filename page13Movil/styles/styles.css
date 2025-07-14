@@ -68,6 +68,16 @@
 #btnOva1{
     margin-top: 10px;
 }
+.btn10 a{
+    color: transparent;
+    position: absolute;
+    width: 260px;
+    height: 60px;
+    top: 340px;
+    left: 100px;
+    cursor: pointer;
+    background-color: transparent;
+}
 
 
 
@@ -240,6 +250,16 @@
     left: 145px;
     top: 705px;
     cursor: pointer;
+}
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 700px;
+    left: 125px;
+    cursor: pointer;
+    background-color: transparent;
 }
 
 .p2Page13{

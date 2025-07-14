@@ -56,3 +56,14 @@
     border-radius: 40px;
     cursor: pointer;
 }
+
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 220px;
+    height: 100px;
+    top: 480px;
+    left: 120px;
+    cursor: pointer;
+    background-color: transparent;
+}
