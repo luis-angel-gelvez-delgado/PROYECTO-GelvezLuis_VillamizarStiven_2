@@ -1,0 +1,147 @@
+.fondo{
+    background-color: black;
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.fondo{
+    background-image: url(./../img/pexels-pixabay-159400.png);
+    position: relative;
+    width: 430px;
+    height: 932px;
+}
+
+.bloqueBla{
+    background-color: white;
+    position: absolute;
+    height: 400px;
+    width: 328px;
+    top: 263px;
+    left: 60px;
+    border-radius: 30px;
+}
+
+.kario{
+    background-image: url(./../img/kario.png);
+    position: absolute;
+    width: 63px;
+    height: 70px;
+    background-size: cover;
+    margin: auto;
+    top: 280px;
+    left: 190px;
+}
+
+.welcome{
+    position: absolute;
+    width: 320px;
+    height: 39px;
+    text-align: center;
+    left: 60px;
+    top: 340px;
+}
+
+.p1page15{
+    position: absolute;
+    width: 229px;
+    height: 15px;
+    font-size: small;
+    text-align: center;
+    left: 105px;
+    top: 393px;
+    color: rgb(56, 56, 56);
+}
+
+.ovalo1{
+    position: absolute;
+    border: 1px black solid;
+    color: white;
+    background-color: darkorange;
+    text-align:center;
+    width: 154px;
+    height: 35px;
+    border-radius: 30px;
+    left: 150px;
+    top: 580px;
+    cursor: pointer;
+}
+.button{
+    margin-top: 10px;
+    width: 155px;
+    font-size: small;
+}
+
+
+
+.ovalo2{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 31px;
+    left: 95px;
+    top: 460px;
+    border: 1px black solid;
+}
+.txtOva2{
+    position: absolute;
+    color: gray;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 445px;
+    left: 100px;
+}
+.dta2{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 121px;
+    height: 30px;
+    top: 465px;
+    left: 135px;
+}
+
+.ovalo3{
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    width: 263px;
+    height: 40px;
+    left: 95px;
+    top: 529px;
+    border: 1px black solid;
+}
+.txtOva3{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 263px;
+    height: 30px;
+    top: 513px;
+    left: 103px;
+    color: gray;
+}
+.dta3{
+    position: absolute;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 121px;
+    height: 30px;
+    top: 543px;
+    left: 164px;
+    color: gray;
+}
+
+.p2page15{
+    position: absolute;
+    color: rgb(57, 57, 57);
+    width: 291px;
+    height: 30px;
+    text-align: center;
+    font-size: smaller;
+    left: 83px;
+    top: 618px;
+    font-size: x-small;
+}
