@@ -46,6 +46,17 @@ body{
     top: 350px;
 }
 
+.btn a{
+    color: transparent;
+    position: absolute;
+    width: 108px;
+    height: 96px;
+    top: 270px;
+    left: 170px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
 .imgPedro{
     position: absolute;
     align-items: center;

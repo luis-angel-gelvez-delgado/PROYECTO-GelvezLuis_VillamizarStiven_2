@@ -90,7 +90,7 @@
     left: 86px;
 }
 
-.btLog button{
+.btLog button a{
     position: absolute;
     color: white    ;
     background-color: darkorange;
