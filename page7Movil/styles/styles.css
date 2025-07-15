@@ -441,13 +441,13 @@
 }
 
 
-.btn7 a{
+.btn16 a{
     color: transparent;
     position: absolute;
-    width: 220px;
-    height: 100px;
-    top: 480px;
-    left: 120px;
+    width: 383px;
+    height: 40px;
+    top: 347px;
+    left: 40px;
     cursor: pointer;
     background-color: transparent;
 }

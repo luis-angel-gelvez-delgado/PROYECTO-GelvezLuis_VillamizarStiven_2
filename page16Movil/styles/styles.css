@@ -1,0 +1,240 @@
+.bloqueBla{
+    background-color: white;
+    border: 1px black solid;
+    position: absolute;
+    height: 358px;
+    width: 358px;
+    top: 263px;
+    left: 40px;
+    border-radius: 30px;
+}
+
+.ova1{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 270px;
+}
+.txt1ova1{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 60px;
+    top: 276px;
+}
+.txt2ova1{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 260px;
+    top: 276px;
+}
+
+.ova2{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 310px;
+}
+.txt1ova2{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 60px;
+    top: 316px;
+}
+.txt2ova2{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 240px;
+    top: 316px;
+}
+
+.ova3{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 350px;
+}
+.txt1ova3{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 60px;
+    top: 356px;
+}
+.txt2ova3{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 290px;
+    top: 356px;
+}
+
+.ova4{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 390px;
+}
+.txt1ova4{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 65px;
+    top: 396px;
+}
+.txt2ova4{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 280px;
+    top: 396px;
+}
+
+.ova5{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 430px;
+}
+.txt1ova5{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 65px;
+    top: 436px;
+}
+.txt2ova5{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 280px;
+    top: 436px;
+}
+
+.ova6{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 470px;
+}
+.txt1ova6{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 65px;
+    top: 476px;
+}
+.txt2ova6{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 255px;
+    top: 476px;
+}
+
+.ova7{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 510px;
+}
+.txt1ova7{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 65px;
+    top: 516px;
+}
+.txt2ova7{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 300px;
+    top: 516px;
+}
+
+.ova8{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 550px;
+}
+.txt1ova8{
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 65px;
+    top: 556px;
+}
+.txt2ova8{
+    position: absolute;
+    background-image: url(./../img/31%.png);
+    width: 30px;
+    height: 20px;
+    left: 300px;
+    top: 556px;
+}
+
+.ova9 {
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 50px;
+    left: 55px;
+    top: 587px;
+}
+.txt1ova9{
+    position: absolute;
+    background-image: url(./../img/31%.png);
+    width: 30px;
+    height: 20px;
+    left: 65px;
+    top: 594px;
+}
+.txt2ova9{
+    position: absolute;
+    background-image: url(./../img/31%.png);
+    width: 30px;
+    height: 20px;
+    left: 300px;
+    top: 594px;
+}
+
+.btn7 a{
+    color: transparent;
+    position: absolute;
+    width: 358px;
+    height: 358px;
+    top: 265px;
+    left: 41px;
+    cursor: pointer;
+    background-color: transparent;
+}
