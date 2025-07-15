@@ -60,10 +60,10 @@
 .btn7 a{
     color: transparent;
     position: absolute;
-    width: 220px;
-    height: 100px;
+    width: 240px;
+    height: 120px;
     top: 480px;
-    left: 120px;
+    left: 110px;
     cursor: pointer;
     background-color: transparent;
 }
